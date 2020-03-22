@@ -1,0 +1,8 @@
+Pseudocode:
+1. Arguments to be passed to our program are friction coefficients, masses of blocks, array of forces and times correspondingly.
+2. Based on the proposed solution different components for each block would be calculated according to passed inputs. 
+3. Based on computed components the movement of bodies should be tracked in the given time period.
+
+Potential Problems:
+1. Incorrect solution of the problem.
+2. Tracking the movement  of bodies for given time period.
